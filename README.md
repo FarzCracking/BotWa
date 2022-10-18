@@ -17,7 +17,7 @@ $ pkg install ffmpeg
 $ termux-setup-storage
 $ apt update && apt upgrade
 $ cd /sdcard
-$cp -r ( NamaFile ) /$HOME
+$ cp -r ( NamaFile ) /$HOME
 $ cd ( NamaFile )
 $ yarn
 $ npm start
